@@ -25,3 +25,6 @@ Equipped with a knowledge graph and detailed community summaries, GraphRAG can t
 **Global Search -** For inquiries that demand a broad analysis of the dataset, such as “What are the main themes discussed?”, GraphRAG utilizes the ***compiled community summaries***. This approach enables the system to integrate insights across the dataset, delivering thorough and well-rounded answers.
 
 **Local Search -** For queries targeting a specific entity, GraphRAG leverages the interconnected structure of the knowledge graph. By navigating the entity’s immediate connections and examining related claims, it gathers pertinent details, enabling the system to deliver accurate and context-sensitive responses.
+
+![image](https://github.com/user-attachments/assets/c55d5899-6aac-4130-a34c-ce9804c52d63)
+
