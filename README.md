@@ -1,3 +1,7 @@
+### Follow the instructions in the following tutorial to implement GraphRAG
+
+[Exploring GraphRAG from Theory to Implementation](https://www.analyticsvidhya.com/blog/2024/11/graphrag/)
+
 ### **Why GraphRAG over Naive RAG?**
 
 **Struggles with Information Scattered Across Different Sources**. Traditional Retrieval-Augmented Generation (RAG) faces challenges when it comes to synthesizing information scattered across multiple sources. It struggles to identify and combine insights linked by subtle or indirect relationships, making it less effective for questions requiring interconnected reasoning. 
