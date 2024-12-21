@@ -26,5 +26,6 @@ Equipped with a knowledge graph and detailed community summaries, GraphRAG can t
 
 **Local Search -** For queries targeting a specific entity, GraphRAG leverages the interconnected structure of the knowledge graph. By navigating the entity’s immediate connections and examining related claims, it gathers pertinent details, enabling the system to deliver accurate and context-sensitive responses.
 
-![image](https://github.com/user-attachments/assets/c55d5899-6aac-4130-a34c-ce9804c52d63)
+![image](https://github.com/user-attachments/assets/32b9ad1e-aa69-459c-8734-571a1f1e3bfe)
+[Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40zilliz_learn%2Fgraphrag-explained-enhancing-rag-with-knowledge-graphs-3312065f99e1&psig=AOvVaw29YJahuOPwh0RQ8ixn6CxM&ust=1734836433573000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCMCDmbzvt4oDFQAAAAAdAAAAABBX)
 
